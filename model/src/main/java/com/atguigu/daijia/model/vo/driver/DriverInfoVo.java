@@ -1,6 +1,5 @@
 package com.atguigu.daijia.model.vo.driver;
 
-import com.baomidou.mybatisplus.annotation.TableField;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 
